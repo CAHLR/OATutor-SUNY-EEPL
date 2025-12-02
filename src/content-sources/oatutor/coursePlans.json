@@ -1,0 +1,19 @@
+[
+    {
+        "courseName": "EEPL614 Quantitative Methods for Educational Leadership",
+        "courseOER": "https://OATutor.io <OATutor>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "3JCHom8U-Ahz8-dd8kv9FxPi",
+                "name": "Lesson Correlation",
+                "topics": "",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "understanding_correlation_coefficient": 0.85,
+                    "understanding_the_significance_of_correlation_coefficient": 0.85
+                }
+            }
+        ]
+    }
+]
