@@ -1,6 +1,7 @@
 [
     {
         "courseName": "EEPL614 Quantitative Methods for Educational Leadership",
+        "language": "",
         "courseOER": "https://OATutor.io <OATutor>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
@@ -13,6 +14,18 @@
                     "interpreting_correlation_from_a_scatterplot_description": 0.85,
                     "understanding_correlation_coefficient": 0.85,
                     "understanding_the_significance_of_correlation_coefficient": 0.85
+                }
+            },
+            {
+                "id": "3JCHom8U-Ahz8-dd8kv9FxPi",
+                "name": "Lesson Correlation",
+                "topics": "(with changes)",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "approaches_to_estimating_probability": 0.85,
+                    "understanding_conditional_probability": 0.85,
+                    "understanding_contingency_tables": 0.85,
+                    "understanding_marginal_and_joint_probability": 0.85
                 }
             }
         ]

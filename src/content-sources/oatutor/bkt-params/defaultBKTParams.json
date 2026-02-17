@@ -16,5 +16,29 @@
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
+    },
+    "approaches_to_estimating_probability": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "understanding_conditional_probability": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "understanding_contingency_tables": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
+    "understanding_marginal_and_joint_probability": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
     }
 }
