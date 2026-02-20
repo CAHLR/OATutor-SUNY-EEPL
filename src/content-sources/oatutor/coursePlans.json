@@ -1,12 +1,12 @@
 [
     {
         "courseName": "EEPL614 Quantitative Methods for Educational Leadership",
-        "language": "",
+        "language": "en",
         "courseOER": "https://OATutor.io <OATutor>",
         "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
         "lessons": [
             {
-                "id": "3JCHom8U-Ahz8-dd8kv9FxPi",
+                "id": "4KCHom8U-Ahz8-dd8kv9FxPi",
                 "name": "Lesson Correlation",
                 "topics": "",
                 "allowRecycle": true,
@@ -18,14 +18,15 @@
             },
             {
                 "id": "3JCHom8U-Ahz8-dd8kv9FxPi",
-                "name": "Lesson Correlation",
-                "topics": "(with changes)",
+                "name": "Lesson Probability",
+                "topics": "",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "approaches_to_estimating_probability": 0.85,
                     "understanding_conditional_probability": 0.85,
                     "understanding_contingency_tables": 0.85,
-                    "understanding_marginal_and_joint_probability": 0.85
+                    "understanding_marginal_and_joint_probability": 0.85,
+                    "understanding_the_significance_of_probelation_coefficient": 0.85
                 }
             }
         ]
