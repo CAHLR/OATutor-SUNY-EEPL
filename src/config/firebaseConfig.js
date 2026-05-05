@@ -7,6 +7,6 @@ const config = {
     messagingSenderId: "1050614582892",
     appId: "1:1050614582892:web:f7ffec360148dc17da1249",
     measurementId: "G-44V1SE1GEF"
-};
+}; 
 
 export default config;
